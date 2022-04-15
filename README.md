@@ -19,4 +19,4 @@ Le fichier **canvas.py** contient le code python du air canvas.
 
 Le fichier **code.py** contient le code de l'interface graphique tkinter.
 
-Le dossier **watermarking_algorithm-main** contient le code de l'algorithme de watermarking ainsi que les fontes utilisées pour la tatouage numérique avec du texte.
+Le dossier **watermarking_algorithm-main** contient le code de l'algorithme de watermarking ainsi que les fontes utilisées pour le tatouage numérique avec du texte.
